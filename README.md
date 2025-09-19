@@ -1,4 +1,4 @@
-<img width="3199" height="1799" alt="image" src="https://github.com/user-attachments/assets/8d76a579-b4af-4a6e-9095-4bdbd517e268" />## Ex. No: 7 – Configure Initial Router Settings
+## Ex. No: 7 – Configure Initial Router Settings
 # Date: 19-09-2025
 ________________________________________
 # Objective
@@ -85,7 +85,9 @@ ________________________________________
 •	MOTD banner display<br>
 •	Password prompts<br>
 •	Saved configuration in NVRAM and flash<br>
-<img width="3199" height="1799" alt="image" src="https://github.com/user-attachments/assets/59e72ba4-6074-496f-9654-045ff7c823ed" />
+
+<img width="3199" height="1799" alt="image" src="https://github.com/user-attachments/assets/f07ef184-7c28-444e-8302-f0575fa7ba0a" />
+
 <img width="3199" height="1799" alt="image" src="https://github.com/user-attachments/assets/8511b86a-1770-41fb-b90d-242ab66011c7" />
 ___________________________________
 # Result
